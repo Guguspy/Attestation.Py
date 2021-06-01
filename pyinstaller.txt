@@ -1,0 +1,3 @@
+pyinstaller --hidden-import=pkg_resources.py2_warn --onefile --noconsole tkintershareco.py -i wifi.ico
+
+pyinstaller --hidden-import=pkg_resources.py2_warn --onefile --noconsole "SteamPatch.pyw" -i steam.ico

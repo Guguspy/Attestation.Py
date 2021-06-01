@@ -1,0 +1,28 @@
+#  | Listes des profiles |
+#    Voilà comment doit être le document 
+#    pour que votre profil soit bien importé :
+#    [NOM_PROFILE] (Peu importe le nom, il sera affiché dans la liste des résultats, il est préférable de mettre un "_" au lieu d'un espace)
+#    NOM (Votre nom)
+#    PRENOM (Votre prénom)
+#    DATE/DE/NAISSANCE (Votre date de naissance en format : jj/mm/aaaa)
+#    VILLE_NAISSANCE (Votre ville de NAISSANCE)
+#    ADRESSE (Votre adresse sans le code postal, ni la ville)
+#    CODE_POSTAL (Votre code postal)
+#    VILLE (Votre ville)
+#    MAIL (Votre adresse mail à laquelle vous seront envoyé les documents (qrcode et attestation))
+#    
+#    ^ et un espace pour faire joli :)
+#    
+#    Si besoin d'aide supplémentaires : 
+#    Mail : reverdyguillaume73@gmail.com
+#    Discord : Gugus le Pingouin#0547
+
+[Gugus]
+PY
+Gugus
+XX/XX/XX
+qsdqds
+36 rue ohazar
+00000
+kelkepar
+monmail@gmail.com
